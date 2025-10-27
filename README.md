@@ -29,13 +29,7 @@ Currently, I’m expanding my skills into **Web Development** using modern techn
 
 ---
 
-## 🏆 GitHub Stats
 
-![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=daffaaditya&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaaditya&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect with Me
 
@@ -44,11 +38,6 @@ Currently, I’m expanding my skills into **Web Development** using modern techn
 
 ---
 
-## 📊 Profile Insights
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=daffaaditya)
-![GitHub followers](https://img.shields.io/github/followers/daffaaditya?label=Follow&style=social)
-
----
 
 ⭐️ _“Keep learning, keep building, and stay curious.”_
