@@ -13,8 +13,6 @@ I'm a **Flutter Enthusiast** who loves creating beautiful, fast, and functional 
 You can check out my projects and portfolios here:
 👉 **[https://portodaffaaditya.vercel.app/](https://portodaffaaditya.vercel.app/)**
 
-Currently, I'm expanding my skills into **Web Development** using modern technologies.
-
 ---
 
 ## 🚀 Tech Stack
@@ -45,10 +43,6 @@ Currently, I'm expanding my skills into **Web Development** using modern technol
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffaaditya2807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaaditya2807&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=daffaaditya&theme=tokyonight&hide_border=true)
 
