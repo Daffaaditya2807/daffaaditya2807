@@ -11,11 +11,17 @@ You can check out my projects and portfolios here:
 👉 **[https://portodaffaaditya.vercel.app/](https://portodaffaaditya.vercel.app/)**
 
 Currently, I’m expanding my skills into **Web Development** using modern technologies like:
-- 🧩 **Vue.js**
-- 🧱 **Laravel**
-- 🎨 **Tailwind CSS**
-- ⚡ **Bootstrap**
-- ⚛️ **React.js**
+## 🚀 Tech Stack (Scrollable)
+
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px 0;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+
+</div>
 
 ---
 
