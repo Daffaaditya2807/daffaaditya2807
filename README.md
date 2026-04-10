@@ -46,9 +46,9 @@ Currently, I'm expanding my skills into **Web Development** using modern technol
 
 <div align="center">
 
-![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffaaditya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Daffa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daffaaditya2807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaaditya&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaaditya2807&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=daffaaditya&theme=tokyonight&hide_border=true)
 
