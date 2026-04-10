@@ -41,17 +41,6 @@ Currently, I'm expanding my skills into **Web Development** using modern technol
 
 ---
 
-## 🧠 Tech Stack I Mastered
-
-| Category | Technologies |
-|---|---|
-| **Mobile** | Flutter • Dart |
-| **Frontend** | Vue.js • React.js • Tailwind CSS • Bootstrap |
-| **Backend** | Laravel • PHP |
-| **Database** | Firebase • MySQL • PostgreSQL |
-| **Other Skills** | REST API • Authentication • UI/UX Implementation |
-
----
 
 ## 📊 GitHub Stats
 
