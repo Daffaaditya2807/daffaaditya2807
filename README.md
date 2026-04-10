@@ -1,6 +1,9 @@
-# 👋 Hi there, I'm Daffa Aditya
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Hi there, I'm Daffa Aditya
+</h1>
 
-🚀 **Flutter Enthusiast** | 💻 **Web Development Learner** | 🌏 **Indonesia**
+🚀 **Flutter Enthusiast** | 💻 **Web Development** | 🌏 **Indonesia**
 
 ---
 
@@ -23,9 +26,6 @@ Currently, I'm expanding my skills into **Web Development** using modern technol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart"/>
 &nbsp;&nbsp;
 <!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" title="Vue.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
 &nbsp;&nbsp;
 <!-- Backend -->
