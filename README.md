@@ -11,7 +11,7 @@ You can check out my projects and portfolios here:
 👉 **[https://portodaffaaditya.vercel.app/](https://portodaffaaditya.vercel.app/)**
 
 Currently, I’m expanding my skills into **Web Development** using modern technologies like:
-## 🚀 Tech Stack (Scrollable)
+## 🚀 Tech Stack
 
 <div style="display: flex; overflow-x: auto; gap: 16px; padding: 10px 0;">
 
