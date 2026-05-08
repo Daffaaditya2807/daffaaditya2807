@@ -1,41 +1,50 @@
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hi there, I'm Daffa Aditya
-</h1>
+<h1 align="left">Hey 👋 Ready to cook today?</h1>
 
-🚀 **Flutter Enthusiast** | 💻 **Web Development** | 🌏 **Indonesia**
+###
 
----
+<p align="left">My name is Daffa Aditya Rejasa Ruswanto, and I’m a Software Engineer from Jombang with a passion for developing modern mobile applications, websites, and fashion-focused digital experiences.</p>
 
-## 👨‍💻 About Me
+###
 
-I'm a **Flutter Enthusiast** who loves creating beautiful, fast, and functional mobile apps.
-You can check out my projects and portfolios here:
-👉 **[https://portodaffaaditya.vercel.app/](https://portodaffaaditya.vercel.app/)**
+<img src="https://raw.githubusercontent.com/Daffaaditya2807/Daffaaditya2807/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 🚀 Tech Stack
+<h2 align="left">🚀 Tech Stack</h2>
 
-<div align="center">
+###
 
-<!-- Mobile -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" title="Dart"/>
-&nbsp;&nbsp;
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" title="Bootstrap"/>
-&nbsp;&nbsp;
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" title="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
-&nbsp;&nbsp;
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
+
+###
+
+<h2 align="left">🚀Database</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
 
 ---
 
