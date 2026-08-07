@@ -7,74 +7,111 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Daffaaditya2807/Daffaaditya2807/output/github-contribution-grid-snake.dark.svg" alt="Snake animation" />
+🛠️ Tech Stack
 
-###
+<p align="center">
 
-<h2 align="left">🚀 Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=php,js,ts,dart,python,go" /><br> <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,flutter,nodejs,tailwind" /><br> <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,git,github,linux,vscode,postman" />
 
-###
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-</div>
-
-###
-
-<h2 align="left">🚀Database</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
+<p align="center">
+<i>Building scalable applications with modern technologies.</i>
+</p>
 
 ---
 
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+| Project                   | Description                                                       | Tech               |
+| ------------------------- | ----------------------------------------------------------------- | ------------------ |
+| 🚗 Vehicle Booking System | Booking, approval workflow, driver management, vehicle monitoring | Laravel • MySQL    |
+| 🌐 Company Profile CMS    | Dynamic company profile with admin dashboard                      | Next.js • Supabase |
+| 🧾 Point of Sale          | Inventory, cashier, reporting, receipt printing                   | Laravel • MySQL    |
+| 📱 Mobile Application     | Cross-platform mobile apps with REST API integration              | Flutter • Firebase |
 
-<div align="center">
+<p align="center">
+<i>More projects are available in my repositories.</i>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=daffaaditya&theme=tokyonight&hide_border=true)
+---
 
-</div>
+## 🎯 Current Focus
+
+* 🌐 Building scalable web applications
+* 📱 Developing cross-platform mobile apps
+* ⚡ Designing REST APIs and backend architecture
+* 🤖 Exploring AI automation and productivity workflows
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  
+<img width="48%" src="https://streak-stats.demolab.com?user=daffaaditya2807&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daffaaditya2807&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+---
+
+## 💬 Developer Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**
+> *— John Johnson*
+
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portodaffaaditya.vercel.app-black?style=for-the-badge&logo=vercel)](https://portodaffaaditya.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daffa%20Aditya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daffaadityarejasaruswanto)
-[![Instagram](https://img.shields.io/badge/Instagram-@daafaditya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daafaditya)
+<a href="https://www.linkedin.com/in/daffaadityarejasaruswanto">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<a href="mailto:daffaaditya2912@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+## 👀 Profile Visitors
 
-⭐️ _"Keep learning, keep building, and stay curious."_
+<p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=daffaaditya&color=blueviolet&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=daffaaditya2807&style=for-the-badge&color=blueviolet"/>
 
-</div>
+<img src="https://img.shields.io/github/followers/daffaaditya2807?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/daffaaditya2807?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ Code. Learn. Build. Repeat.
+
+⭐ **Thanks for visiting my profile!**
+
+</p>
+
